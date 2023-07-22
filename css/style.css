@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&family=Ubuntu&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+
+/* Header index */
+.te {
+    width: 30px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.header {
+    list-style-type: none;
+    text-transform: uppercase;
+    background-color: azure;
+    box-shadow: 2px 2px 15px rgb(115, 115, 116);
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; */
+    border-radius: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgb(35, 37, 42);
+}
+
+.correo {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.header ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.linkedin {
+    background-color: rgb(28, 151, 223);
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.instagram {
+    background-color: rgb(233, 73, 134);
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.facebook {
+    background-color: rgb(113, 113, 233);
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.header-hijo div {
+    background-color: rgb(107, 114, 181);
+    /* border: 2px solid; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-link:hover {
+    background-color: rgb(222, 241, 235);
+    border-radius: 12px;
+}
+
+.redes-sociales a:hover {
+    color: blanchedalmond;
+}
+
+.dropdown-menu a:hover {
+    text-decoration: underline;
+}
+
+
+/* Main Index */
+
+.main-index img {
+    width: 60%;
+    margin-top: 20px;
+}
+.main-index {
+    text-align: center;
+    margin-top: 20px;
+}
+.main-index h1 {
+    color: rgb(107, 114, 181);
+}
+.edit {
+    color: rgb(107, 114, 181);
+}
+.main-index .bienvenidos {
+    margin-top: 20px;
+}
+
+
+/* Blog main */
+
+.img-blog {
+    background-image: url(../recursos/blog.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+.main-blog {
+    text-align: center;
+}
+.videos-blog iframe{
+    width: 50%;
+    height: 400px; ;
+}
+.main-blog h1{
+    color: black;
+    margin-top: 20px;
+}
+.videos-blog h4{
+    color: rgb(55, 55, 243);
+    margin: 20px;
+}
+.videos-blog h3{
+    color: black;
+    margin-top: 20px; 
+}
+
+
+/* Nosotros main */
+
+.main-nosotros{
+    text-align: center;
+}
+.main-nosotros img {
+    width: 60%;
+    margin-top: 20px;
+}
+.main-nosotros h1 {
+    color: rgb(107, 114, 181);
+    margin-top: 20px;
+}
+.main-nosotros h2{
+    color: black;
+    margin-top: 20px;
+}  
+.edit-1{
+    color: rgb(107, 114, 181);
+}
+.edit-2{
+    color: rgb(107, 114, 181);
+    font-weight:bold ;
+}
+.edit-3{
+    color: rgb(107, 114, 181);
+}
+
+
+/* Servicios main */
+
+.main-servicios{
+    text-align: center;
+}
+.main-servicios img{
+    width: 60%;
+    margin-top: 20px;
+}
+.main-servicios h1 {
+    color: rgb(107, 114, 181);
+    margin-top: 20px;
+}
+.bienvenidos-2{
+    color: rgb(107, 114, 181);
+    margin-top: 20px;
+}
+.main-servicios small{
+    color: rgb(0, 1, 8);
+    font-weight:bold ;
+}
+.main-servicios h2 {
+    color: rgb(107, 114, 181);
+    margin-top: 20px;
+}
+.publicidad{
+    color: rgb(107, 114, 181);
+    font-weight:bold ;
+    margin-top: 20px;
+}
+
+/* main Contacto */
+
+.main-contacto{
+    text-align: center;
+}
+.main-contacto img{
+    width: 60%;
+    margin-top: 20px;
+}
+.main-contacto h1{
+    color: black;
+    margin-top: 20px;
+}
+.main-contacto h2{
+    color: black;
+    margin-top: 20px;
+}
+.main-contacto h3{
+    color: rgb(107, 114, 181);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.img-contacto {
+    background-image: url(../recursos/contacto.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:838px) {
+    .header-hijo div {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
