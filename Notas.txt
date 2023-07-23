@@ -1,0 +1,29 @@
+Buenas tardes:
+
+Entrego el trabajo de la PreEntrega2 con las correcciones solicitadas.
+Tuve que realizar todo el proyecto desde cero con el mismo lineamiento que el anterior.
+Se eliminó el br.
+se linkeo al logo
+Se agregaron imágenes nuevas y utilicé algunas como fondo de pantalla
+Se agregó animación al header
+se corrigió la ubicación del Bootstrap
+El responsive funciona correctamente.
+
+ENLACE DE FIGMA:
+HOME:
+https://www.figma.com/file/ZkTHgp6W7xbmbsnct64A9C/HOME?type=design&node-id=0-1&t=xJ6KXBJNUzyPhKWG-0
+
+NOSOTROS:
+https://www.figma.com/file/llnNgwSlfyfVUk20w7JgNj/NOSOTROS?type=design&t=xJ6KXBJNUzyPhKWG-0
+
+SERVICIOS:
+https://www.figma.com/file/gIcUQ1lkQxzLDIdheYrP8i/SERVICIOS?type=design&t=xJ6KXBJNUzyPhKWG-0
+
+BLOG:
+https://www.figma.com/file/9iuFrUoQNGUVieoz0U0zmm/BLOG?type=design&t=xJ6KXBJNUzyPhKWG-0
+
+CONTACTO:
+https://www.figma.com/file/wp0ae9jvcyisUrXjPhutDl/CONTACTO?type=design&t=xJ6KXBJNUzyPhKWG-0
+
+
+
