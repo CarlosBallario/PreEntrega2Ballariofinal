@@ -24,7 +24,7 @@
     list-style-type: none;
     text-transform: uppercase;
     background-color: azure;
-    box-shadow: 2px 2px 15px rgb(115, 115, 116);
+    box-shadow: 2px 2px 15px rgb(241, 108, 55);
     /* display: flex;
     flex-wrap: wrap;
     flex-direction: column; */
@@ -70,7 +70,7 @@
 }
 
 .header-hijo div {
-    background-color: rgb(107, 114, 181);
+    background-color: rgb(244, 133, 85);
     /* border: 2px solid; */
     display: flex;
     flex-direction: row;
@@ -247,7 +247,7 @@
 /* footer */
 
 .footer{
-    background-color:rgb(107, 114, 181); 
+    background-color: rgb(244, 133, 85); 
     color: white;
     display: flex;
     flex-direction: row;
