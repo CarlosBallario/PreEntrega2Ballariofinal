@@ -8,6 +8,9 @@ Se agregaron imágenes nuevas y utilicé algunas como fondo de pantalla
 Se agregó animación al header
 se corrigió la ubicación del Bootstrap
 El responsive funciona correctamente.
+Modificaciones en el header y en footer
+
+
 
 ENLACE DE FIGMA:
 HOME:
